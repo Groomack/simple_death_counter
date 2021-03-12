@@ -11,3 +11,5 @@ This is a simple widget for OBS that can show the number of deaths. Can works in
 ## What does it look like?
 ![GitHub Logo](https://github.com/Groomack/simple_death_counter/blob/main/example.PNG?raw=true)
 ## How to use?
+1. You need to run the file death_counter.py in IDLE, pycharm or any command console
+2. Next step. Run OBS and add 
