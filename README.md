@@ -16,4 +16,4 @@ This is a simple widget for OBS that can show the number of deaths. Can works in
 ![GitHub Logo](https://github.com/Groomack/simple_death_counter/blob/main/examples/2.PNG?raw=true)
 4. Set checkbox **read from file** and click **Browse**. Find the file with name *death.txt*.
 ![GitHub Logo](https://github.com/Groomack/simple_death_counter/blob/main/examples/4.PNG?raw=true)  
-Thats all. Now you can use widget. I hope this is useful to someone. If you have a question, write to me and I will help as much as I can. Hugged everyone
+Thats all. Now you can use widget. I hope this is useful to someone. If you have a question, write to me in Discord Groomack#9181 and I will help as much as I can. Hugged everyone
